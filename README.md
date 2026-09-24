@@ -2,5 +2,5 @@
 ![Скрин 2](photo2.jpg)
 ![Скрин 3](photo3.jpg)
 ![Скрин 4](photo4.jpg)
-![Скрин 5](photo5.jpg)
+![Скрин 5](phoot5.jpg)
 ![Скрин 6](photo6.jpg)
